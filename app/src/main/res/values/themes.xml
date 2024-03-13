@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+</resources>
+
+<!--
+
+<item name="appWidgetRadius">16dp</item>
+<item name="appWidgetInnerRadius">8dp</item>
+</style>
+
+<style name="Theme.TestActivity.AppWidgetContainer" parent="Theme.TestActivity.AppWidgetContainerParent">
+<item name="appWidgetPadding">16dp</item>
+</style>
+-->

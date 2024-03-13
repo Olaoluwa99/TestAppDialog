@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestActivity</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="cryptool">Cryptool</string>
+    <string name="icon">Icon</string>
+    <string name="widget_hint">M@ngo123</string>
+    <string name="clear">Clear</string>
+    <string name="test_text">This is a test text</string>
+
+    <string name="decrypt_text">DECRYPT</string>
+    <string name="encrypt_text">ENCRYPT</string>
+    <string name="copy_text">Copy</string>
+    <string name="incorrect_password">Incorrect password! please try again!</string>
+</resources>

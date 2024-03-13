@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+
+
+    -->
+
+    <!-- Overlay service-->
+    <dimen name="overlay_ball_size">64dp</dimen>
+    <dimen name="overlay_ball_margin_top">8dp</dimen>
+    <dimen name="overlay_ball_background_padding">5dp</dimen>
+    <dimen name="overlay_ball_close_size">24dp</dimen>
+    <dimen name="overlay_ball_close_margin_top">3dp</dimen>
+    <dimen name="overlay_ball_close_margin_start">43dp</dimen>
+    <dimen name="overlay_ball_close_padding">3dp</dimen>
+
+
+    <dimen name="widget_margin">0dp</dimen>
+    <dimen name="widget_small_margin">8dp</dimen>
+    <dimen name="widget_default_margin">16dp</dimen>
+    <dimen name="widget_default_padding">16dp</dimen>
+    <dimen name="widget_large_margin">33dp</dimen>
+    <dimen name="widget_medium_padding">30dp</dimen>
+    <dimen name="widget_corner_radius">16dp</dimen>
+    <dimen name="widget_medium_margin">24dp</dimen>
+
+    <dimen name="widget_card_radius">30dp</dimen>
+
+</resources>
